@@ -1,0 +1,25 @@
+[
+  {
+    "symbol": "SOL",
+    "id": "solana",
+    "bounds": {
+      "lower": 185.0,
+      "upper": 190.0
+    }
+  },
+  {
+    "symbol": "BONK",
+    "id": "bonk"
+  },
+  {
+    "symbol": "WIF",
+    "id": "dogwifcoin"
+  },
+  {
+    "symbol": "FART",
+    "id": "fartcoin",
+    "bounds": {
+      "lower": 1.35
+    }
+  }
+]
